@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eleanor 
 - 👀 I’m interested in prospering in cybersecurity in the Air Force and contributing to Cyberspace Warfare Operations as an officer. 
-- 🌱 I’m currently learning all the aspects of Computer Science at Chaminade University 
+- 🌱 I’m currently learning all the aspects of Computer Science at Chaminade University of Honolulu
 - 📫 Reach me at eleanor.akeli@student.chaminade.edu
 
 
